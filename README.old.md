@@ -1,2 +1,0 @@
-# ppc
-Plate process counter
